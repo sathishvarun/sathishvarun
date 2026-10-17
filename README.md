@@ -1,92 +1,137 @@
 <div align="center">
 
-# Sathish | Marketing Automation × AI
+# Sathish
+### Marketing Automation & Marketing Technology Leader | AI Workflow Automation
 
-### Enterprise marketing technology experience. Practical AI and workflow automation projects.
+**14+ Years in Technology & Marketing Operations** · **Enterprise Campaign Automation** · **CRM Integration** · **AI-Enabled Workflows**
 
-[![Python](https://img.shields.io/badge/Python-Learning%20Projects-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![n8n](https://img.shields.io/badge/n8n-Workflow%20Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)](https://n8n.io/)
-[![GenAI](https://img.shields.io/badge/Generative%20AI-Hands--on%20Learning-6C63FF?style=for-the-badge)](https://github.com/)
-[![CRM](https://img.shields.io/badge/CRM%20%26%20Marketing-Automation-0A66C2?style=for-the-badge)](https://www.salesforce.com/)
+[![Marketing Automation](https://img.shields.io/badge/Marketing-Automation-0A66C2?style=for-the-badge)](https://github.com/sathishvarun)
+[![Oracle Eloqua](https://img.shields.io/badge/Oracle-Eloqua-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/)
+[![Salesforce](https://img.shields.io/badge/Salesforce-CRM-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/)
+[![GenAI](https://img.shields.io/badge/Generative_AI-Business_Automation-6C63FF?style=for-the-badge)](https://github.com/sathishvarun)
+[![Python](https://img.shields.io/badge/Python-Automation-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![n8n](https://img.shields.io/badge/n8n-Workflow_Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)](https://n8n.io/)
 
 </div>
 
 ---
 
-## 👋 About Me
+## 👋 Professional Summary
 
-I'm a marketing technology professional with **14+ years of experience**, including extensive experience in marketing automation, campaign operations, CRM integrations, and demand generation.
+I am a **marketing technology and automation professional with 14+ years of experience**, including deep hands-on experience in **marketing automation, enterprise campaign operations, CRM integration, demand generation, and marketing performance reporting**.
 
-My professional background includes **Oracle Eloqua, Salesforce CRM, campaign operations, and reporting**. I'm currently expanding my hands-on skills in **Generative AI, Python, and workflow automation**, with an emphasis on practical business use cases.
+My work sits at the intersection of marketing strategy, campaign execution, data, and technology. I have supported complex campaign operations across regions, built and optimized automation workflows, worked with CRM-connected marketing processes, and focused on improving operational efficiency and campaign performance.
 
-This profile brings together my professional technology background and my ongoing AI learning journey. I aim to document projects clearly, share useful examples, and show what has been tested versus what is still in progress.
+My core professional expertise includes **Oracle Eloqua, Salesforce CRM, campaign automation, lead and contact processes, campaign operations, and reporting**. I am now extending this foundation into **Generative AI, Python, and n8n**, exploring how AI-enabled workflows can make marketing and business operations more efficient.
 
-## 🧭 Focus Areas
+**My focus:** combine enterprise marketing technology experience with practical AI automation to solve real business problems—not just build isolated demos.
 
-| Area | Technologies and topics |
+## 💼 Core Professional Expertise
+
+| Capability | Experience and focus |
 |---|---|
-| Marketing technology | Oracle Eloqua, Salesforce CRM, campaign operations, demand generation |
-| Workflow automation | n8n, integrations, event-driven workflows |
-| Python | Automation scripts, file handling, browser and desktop automation |
-| Generative AI | LLM concepts, LangChain learning, AI-enabled business workflows |
-| Reporting | Power BI, Excel, marketing performance reporting |
+| **Marketing Automation** | Oracle Eloqua, campaign orchestration, automated workflows, segmentation and campaign execution |
+| **Enterprise Campaign Operations** | Campaign intake, production workflows, QA, scheduling, execution, and regional operations |
+| **CRM & Marketing Integration** | Salesforce CRM, Microsoft Dynamics integration concepts, data flow and campaign processes |
+| **Demand Generation** | Campaign operations, audience engagement, partner marketing and ABM-related workflows |
+| **Reporting & Analytics** | Power BI dashboards, Excel reporting, campaign performance measurement and operational insights |
+| **Process Optimization** | Workflow standardization, reducing repetitive manual work, operational efficiency and scalable processes |
 
-## 🚀 Learning & Project Portfolio
+## 📈 Selected Business Impact
 
-### `SE-B12` — AI learning and assignments
-My learning repository for hands-on exercises. Past work discussed includes a **LangChain Components** exercise involving LangChain/OpenAI/LangSmith concepts.
+Examples of outcomes from my professional work, subject to validation against the original project records before publication:
 
-**To make this repository easy to review:** organize work by week/day, give each assignment a concise README, include setup instructions, and show sanitized examples or screenshots where useful.
+- **9+ Eloqua workflows automated** to streamline campaign operations.
+- **50% reduction in campaign cycle time** through workflow optimization.
+- **Up to 85% reduction in manual effort** through automation initiatives.
+- Contributed to CRM and campaign process improvements, reporting, and demand-generation initiatives.
 
-[Open SE-B12](https://github.com/sathishvarun/SE-B12)
+> Keep only metrics you can confidently substantiate and are permitted to share publicly. Avoid disclosing confidential employer, customer, campaign, or regional performance information.
 
-### n8n workflow automation
-A project area for integrations and workflows, including Slack/Telegram trigger experiments and AI-assisted processing. Link the exact workflow repository here only after confirming its repository URL and what is implemented.
+## 🤖 AI & Workflow Automation
 
-### Python automation
-A project area for Python scripts and automation exercises. For each published exercise, document its purpose, dependencies, run command, expected output, and known limitations.
+I am applying my operations mindset to practical AI and automation projects. My current hands-on learning areas include:
 
-### Browser automation
-A project area for Playwright experiments, including browser navigation and structured data extraction. Include only functionality present in the relevant repository.
+- **Generative AI:** exploring LLM capabilities and business use cases.
+- **n8n:** workflow orchestration, triggers, integrations and AI-assisted processing.
+- **Python:** automation scripts, file handling and repetitive-task automation.
+- **LangChain:** learning components and patterns for LLM-powered applications.
+- **Playwright & PyAutoGUI:** browser and desktop automation experiments.
+- **APIs and integrations:** connecting systems and moving information between workflow steps.
 
-> **Project accuracy note:** The sections above distinguish a known learning repository from broader project areas. Add links and claim completion only after confirming the actual repository contents and testing status.
+My goal is to build reliable, documented examples that connect AI capabilities to real operational needs such as campaign support, data preparation, reporting, lead workflows, and repetitive business processes.
 
-## 🧰 Technology Snapshot
+## 🚀 Project Portfolio
 
-**Professional experience**
-- Oracle Eloqua and marketing automation
-- Salesforce CRM and CRM integrations
-- Campaign operations and demand generation
-- Reporting and analytics
+### [SE-B12 — AI Learning & Assignments](https://github.com/sathishvarun/SE-B12)
 
-**Hands-on learning and project work**
+My hands-on AI learning repository, including exercises such as LangChain components.
+
+**Portfolio improvement focus:** clear assignment descriptions, setup instructions, example outputs, and notes on what was tested and learned.
+
+### n8n Workflow Automation
+
+A developing project area for workflow integrations and trigger-based automation, including Slack and Telegram experiments.
+
+**Documentation focus:** workflow purpose, node sequence, credentials setup without exposing secrets, sample input/output, and testing status. Add a direct repository link once the correct repository is confirmed.
+
+### Python Automation
+
+A developing project area for scripts and practical automation exercises.
+
+**Documentation focus:** prerequisites, dependencies, how to run each script, expected output, screenshots, and limitations.
+
+### Browser Automation
+
+A developing project area for Playwright experiments involving browser navigation and data extraction.
+
+**Documentation focus:** clear use cases, safe test data, setup steps, and reproducible examples.
+
+> The `SE-B12` link above is the known repository. The other areas are portfolio categories, not claims that separate repositories already exist. Link them only after confirming the actual repositories and implementation status.
+
+## 🧰 Technology Stack
+
+**Professional marketing technology**
+- Oracle Eloqua
+- Salesforce CRM
+- Marketing automation and campaign operations
+- Demand generation and marketing workflows
+- Power BI and Microsoft Excel
+- CRM integration and reporting processes
+
+**AI and automation — current hands-on development**
 - Python
 - n8n
 - Generative AI and LLM workflows
 - LangChain learning exercises
-- Playwright and PyAutoGUI
+- Playwright
+- PyAutoGUI
+- API and workflow integration concepts
 
-## 📋 What You'll Find in My Repositories
+## 📝 How I Approach Projects
 
-I aim to document each project with:
-1. **Purpose:** the task or business problem
-2. **Workflow:** how the solution works
-3. **Setup:** prerequisites and installation
-4. **Usage:** commands or steps to run it
-5. **Example:** sanitized input/output or screenshots
-6. **Testing:** what has been verified and what remains in progress
+I aim to make every project easy for another person to understand and reproduce:
 
-## 🎯 Current Direction
+1. **Business problem:** what task or operational challenge is being addressed?
+2. **Solution design:** what workflow or automation is proposed?
+3. **Implementation:** what tools, nodes, libraries or APIs are used?
+4. **Setup and usage:** how can someone safely run the example?
+5. **Evidence:** what sample output or screenshot demonstrates the result?
+6. **Validation:** what works, what has been tested, and what remains to improve?
 
-Connecting my marketing automation background with AI-enabled workflows to help reduce repetitive work, improve data handling, and make business processes easier to operate and measure.
+## 🎯 What I'm Building Toward
+
+I am focused on combining **marketing automation expertise with AI-enabled business process automation**—especially in campaign operations, CRM-connected workflows, data preparation, reporting, and productivity.
+
+I welcome conversations about marketing technology, marketing automation leadership, CRM operations, AI workflow automation, and digital transformation.
 
 ## 🤝 Connect
 
-- **GitHub:** [sathishvarun](https://github.com/sathishvarun)
-- **LinkedIn:** (https://www.linkedin.com/in/sathishvarun/?isSelfProfile=true)
+- **GitHub:** [github.com/sathishvarun](https://github.com/sathishvarun)
+- **LinkedIn:** [linkedin.com/in/sathishvarun](https://www.linkedin.com/in/sathishvarun/)
 
 <div align="center">
 
-*Practical automation · Clear documentation · Continuous learning*
+**Enterprise marketing experience. Practical automation. Continuous innovation.**
 
 </div>
