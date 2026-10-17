@@ -16,7 +16,7 @@
 
 ---
 
-## 👋 Professional Summary
+##  Professional Summary
 
 I am a **marketing technology and automation professional with 14+ years of experience**, including deep hands-on experience in **marketing automation, enterprise campaign operations, CRM integration, demand generation, and marketing performance reporting**.
 
@@ -26,7 +26,7 @@ My core professional expertise includes **Oracle Eloqua, Salesforce CRM, campaig
 
 **My focus:** combine enterprise marketing technology experience with practical AI automation to solve real business problems—not just build isolated demos.
 
-## 💼 Core Professional Expertise
+##  Core Professional Expertise
 
 | Capability | Experience and focus |
 |---|---|
@@ -37,7 +37,7 @@ My core professional expertise includes **Oracle Eloqua, Salesforce CRM, campaig
 | **Reporting & Analytics** | Power BI dashboards, Excel reporting, campaign performance measurement and operational insights |
 | **Process Optimization** | Workflow standardization, reducing repetitive manual work, operational efficiency and scalable processes |
 
-## 📈 Selected Business Impact
+##  Selected Business Impact
 
 Examples of outcomes from my professional work, subject to validation against the original project records before publication:
 
@@ -48,7 +48,7 @@ Examples of outcomes from my professional work, subject to validation against th
 
 > Keep only metrics you can confidently substantiate and are permitted to share publicly. Avoid disclosing confidential employer, customer, campaign, or regional performance information.
 
-## 🤖 AI & Workflow Automation
+##  AI & Workflow Automation
 
 I am applying my operations mindset to practical AI and automation projects. My current hands-on learning areas include:
 
@@ -61,7 +61,7 @@ I am applying my operations mindset to practical AI and automation projects. My 
 
 My goal is to build reliable, documented examples that connect AI capabilities to real operational needs such as campaign support, data preparation, reporting, lead workflows, and repetitive business processes.
 
-## 🚀 Project Portfolio
+##  Project Portfolio
 
 ### [SE-B12 — AI Learning & Assignments](https://github.com/sathishvarun/SE-B12)
 
@@ -89,7 +89,7 @@ A developing project area for Playwright experiments involving browser navigatio
 
 > The `SE-B12` link above is the known repository. The other areas are portfolio categories, not claims that separate repositories already exist. Link them only after confirming the actual repositories and implementation status.
 
-## 🧰 Technology Stack
+##  Technology Stack
 
 **Professional marketing technology**
 - Oracle Eloqua
@@ -108,7 +108,7 @@ A developing project area for Playwright experiments involving browser navigatio
 - PyAutoGUI
 - API and workflow integration concepts
 
-## 📝 How I Approach Projects
+##  How I Approach Projects
 
 I aim to make every project easy for another person to understand and reproduce:
 
@@ -119,13 +119,13 @@ I aim to make every project easy for another person to understand and reproduce:
 5. **Evidence:** what sample output or screenshot demonstrates the result?
 6. **Validation:** what works, what has been tested, and what remains to improve?
 
-## 🎯 What I'm Building Toward
+##  What I'm Building Toward
 
 I am focused on combining **marketing automation expertise with AI-enabled business process automation**—especially in campaign operations, CRM-connected workflows, data preparation, reporting, and productivity.
 
 I welcome conversations about marketing technology, marketing automation leadership, CRM operations, AI workflow automation, and digital transformation.
 
-## 🤝 Connect
+##  Connect
 
 - **GitHub:** [github.com/sathishvarun](https://github.com/sathishvarun)
 - **LinkedIn:** [linkedin.com/in/sathishvarun](https://www.linkedin.com/in/sathishvarun/)
