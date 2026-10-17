@@ -83,7 +83,7 @@ Connecting my marketing automation background with AI-enabled workflows to help 
 ## 🤝 Connect
 
 - **GitHub:** [sathishvarun](https://github.com/sathishvarun)
-- **LinkedIn:** [Add your LinkedIn profile URL]
+- **LinkedIn:** (https://www.linkedin.com/in/sathishvarun/?isSelfProfile=true)
 
 <div align="center">
 
