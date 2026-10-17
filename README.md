@@ -1,6 +1,6 @@
 <div align="center">
 
-# Sathish
+# Sathish Sakthivel
 ### Marketing Automation & Marketing Technology Leader | AI Workflow Automation
 
 **14+ Years in Technology & Marketing Operations** · **Enterprise Campaign Automation** · **CRM Integration** · **AI-Enabled Workflows**
